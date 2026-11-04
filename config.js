@@ -1,6 +1,6 @@
 const CONFIG = {
-  vtfFolder:   "../materials/vgui/replay/thumbnails/reticles/",
-  colorFolder: "../materials/vgui/replay/thumbnails/reticles/colors/",
+  vtfFolder:   "materials/vgui/replay/thumbnails/reticles/",
+  colorFolder: "materials/vgui/replay/thumbnails/reticles/colors/",
   colorCount:  150,
 };
 
