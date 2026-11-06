@@ -147,7 +147,7 @@ function drawFullCrosshair() {
 
 function buildCommand() {
   const commands = PIECES.flatMap((piece, i) => [
-    `m0_xhair_style_${rows[i].styleSelect.value}_${piece.styleSuffix}`,
+    `p4ss_xhair_style_${rows[i].styleSelect.value}_${piece.styleSuffix}`,
     `${piece.colorAlias}${rows[i].colorSelect.value}`,
   ]);
   commands.push(...RELOAD_COMMANDS);
