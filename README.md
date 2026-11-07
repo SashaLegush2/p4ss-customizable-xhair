@@ -6,4 +6,6 @@ this was originally, supposed to be an addon for PASS Fortress HUD, but because 
 
 Because this was made for PFHUD, i didnt intend for it to be used anywhere else, however you can! Go on https://sashalegush2.github.io/p4ss-customizable-xhair/ and create! idk what else to say!
 
+also do exec p4ss_xhair in console, I may or may not have forgotten about that detail because PFHUD automatically does that
+
 If implementing in your hud, please dont, its 110 mbs that 95% of users will never use, thanks!
