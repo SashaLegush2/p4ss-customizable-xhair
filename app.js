@@ -5,11 +5,7 @@ const PIECES = [
 ];
 
 const RELOAD_COMMANDS = [
-  "sv_cheats 1",
-  "mat_reloadmaterial passtime/hud/passtime_ball_reticle_passlock",
-  "mat_reloadmaterial passtime/hud/passtime_ball_reticle_piece_1",
-  "mat_reloadmaterial passtime/hud/passtime_ball_reticle_piece_2",
-  "sv_cheats 0",
+  "exec xhair_reload"
 ];
 
 const FULL_BACKGROUNDS = ["", "dark", "light"];
